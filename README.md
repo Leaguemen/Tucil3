@@ -17,5 +17,5 @@ Venantius Sean Ardi Nugroho/13522078
 
 ## Kakas yang Digunakan
 
-- Java
+- Java version "21" 2023-09-19 LTS
 - Java Swing
